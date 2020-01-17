@@ -1,0 +1,9 @@
+//
+// Created by nikolay on 17 of January, 2020.
+//
+#include "project_math.cpp"
+
+#ifndef CONVEX_ROBOT_KINEMATICS_DYNAMIC_CALCULATOR_H
+#define CONVEX_ROBOT_KINEMATICS_DYNAMIC_CALCULATOR_H
+
+#endif //CONVEX_ROBOT_KINEMATICS_DYNAMIC_CALCULATOR_H

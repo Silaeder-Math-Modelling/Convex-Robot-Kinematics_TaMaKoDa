@@ -1,4 +1,5 @@
 #include <iostream>
+#include "dynamics_calculator.h"
 
 int main()
 {

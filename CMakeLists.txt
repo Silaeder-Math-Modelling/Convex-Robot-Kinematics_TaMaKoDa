@@ -3,4 +3,4 @@ project(Convex_Robot_Kinematics)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Convex_Robot_Kinematics main.cpp)
+add_executable(Convex_Robot_Kinematics main.cpp dynamic_calculator.cpp project_math.cpp)
