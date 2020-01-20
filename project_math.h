@@ -8,6 +8,6 @@
 #ifndef CONVEX_ROBOT_KINEMATICS_PROJECT_MATH_H
 #define CONVEX_ROBOT_KINEMATICS_PROJECT_MATH_H
 
-bool can_stay_here(const vector<Rectangle> &obstacles, Rectangle robot);
+bool can_stay_here(const vector<Rectangle> &obstacles, Rectangle field, Rectangle robot);
 
 #endif //CONVEX_ROBOT_KINEMATICS_PROJECT_MATH_H
