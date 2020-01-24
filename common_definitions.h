@@ -10,6 +10,11 @@ struct Point
     long long x, y;
 };
 
+Point operator+(Point a, Point b)
+{
+    return {a.x + b.x, a.y b.y};
+}
+
 typedef pair<Point, Point> Rectangle;
 
 #endif //CONVEX_ROBOT_KINEMATICS_COMMON_DEFINITIONS_H
