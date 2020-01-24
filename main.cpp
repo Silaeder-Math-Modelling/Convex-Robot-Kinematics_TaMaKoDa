@@ -1,7 +1,7 @@
 #include <iostream>
-#include "dynamics_calculator.h"
+#include "dynamic_solve.h"
 
-int main()
+int main(int argc, char* argv[])
 {
     std::cout << "Hello, World!" << std::endl;
     return 0;
